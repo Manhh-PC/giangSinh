@@ -109,10 +109,10 @@ function createGift() {
   gift.style.top = '-50px';
 
   const messages = [
-    '🎁 Chúc mừng! Bạn nhận được một điều ước',
-    '🎄 Giáng sinh an lành!',
-    '⭐ Năm mới hạnh phúc!',
-    '🎅 Ho Ho Ho! Quà từ ông già Noel',
+    '🎁 Chúc mừng! Bạn nhận được quà từ Manhh PC',
+    '🎄 Giáng sinh an lành nha các bạn Truyền Thông!',
+    '⭐ Năm mới bình an, hạnh phúc!',
+    '🎅 He He He! Quà từ ông già Noel',
   ];
 
   gift.addEventListener('click', () => {
